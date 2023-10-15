@@ -28,7 +28,7 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Others](https://skillicons.dev/icons?i=aws,docker,git,github,markdown,vercel,heroku,netlify,vscode,visualstudio,cloudflare,figma,regex,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex)
 
 ## Github Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=suravshrestha&theme=onedark&column=8&margin-w=5&margin-h=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=suravshrestha&theme=juicyfresh&column=5&margin-w=15&margin-h=15)
 
 ![Surav's GitHub stats](https://github-readme-stats.vercel.app/api?username=suravshrestha&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=suravshrestha&theme=radical)
