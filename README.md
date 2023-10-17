@@ -24,8 +24,11 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis)
 
+#### DevOps & Cloud
+![Others](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,heroku,netlify,cloudflare)
+
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=aws,docker,git,github,markdown,vercel,heroku,netlify,vscode,visualstudio,cloudflare,figma,regex,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex)
+![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex,figma)
 
 ## Github Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=suravshrestha&theme=juicyfresh&column=5&margin-w=15&margin-h=15)
