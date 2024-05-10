@@ -23,19 +23,19 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,c,cpp,go)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind,materialui,jquery)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,nextjs,html,css,bootstrap,tailwind,materialui)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,django)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis)
+![Database & Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
 #### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,heroku,netlify,cloudflare)
+![Others](https://skillicons.dev/icons?i=docker,nginx,terraform,ansible,aws,cloudflare,vercel,netlify)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex,figma)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,selenium,vite,latex,figma)
 
 ## Github Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=suravshrestha&theme=juicyfresh&column=5&margin-w=15&margin-h=15)
