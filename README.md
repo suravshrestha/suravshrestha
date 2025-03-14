@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Surav (he/him)** - I'm an undergrad student pursuing Bachelor of Computer Engineering (BCT) under Tribhuwan University, IOE, Pulchowk Campus. I'm interested in **software engineering**, **backend development**, **problem solving**, **data structure and algorithm**, and **programming in general**.
+**I'm Surav (he/him)** - I'm an **AWS Certified Solutions Architect** and an undergrad student pursuing Bachelor of Computer Engineering (BCT) under Tribhuwan University, IOE, Pulchowk Campus. I'm interested in **software engineering**, **backend development**, **problem solving**, **data structure and algorithm**, and **programming in general**.
 
 ## Connect with me
 <!---
